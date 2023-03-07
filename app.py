@@ -58,3 +58,10 @@ def callback():
        abort(400)
    return 'OK'
 
+# 使用LINE機器人
+if name == "main":
+app.run()                          
+                         
+                          
+                       
+
