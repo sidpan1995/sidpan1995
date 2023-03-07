@@ -1,3 +1,5 @@
+pip install flask line-bot-sdk
+
 import os
 import json
 import requests
