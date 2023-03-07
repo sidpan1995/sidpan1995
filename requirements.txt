@@ -1,3 +1,0 @@
-flask
-requests
-line-bot-sdk==1.20.0
